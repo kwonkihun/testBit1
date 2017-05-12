@@ -1,10 +1,12 @@
 package hello12;
 
-// // This sample uses the Apache HTTP client from HTTP Components (http://hc.apache.org/httpcomponents-client-ga/)
-
 
 public class main 
 {
- //helf   
+    public static void main(String[] args) 
+    {
+    	System.out.println("변경했으니 확인하자");
+    	//sfdjisaofjdiosajfiosda
+    }
 }
 
